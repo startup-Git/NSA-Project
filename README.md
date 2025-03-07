@@ -4,11 +4,10 @@
 This project demonstrates a **Campus Network** design using **Cisco Packet Tracer**. The network consists of multiple VLANs, routers, switches, and wireless access points to simulate a real-world campus environment.
 
 ## Features
-- **VLAN Segmentation** for different departments (e.g., Admin, Faculty, Students, Guests)
+- **VLAN Segmentation** for different departments (e.g., Admin, Faculty, Students, Labs)
 - **Inter-VLAN Routing** using Layer 3 Switch or Router-on-a-stick
 - **DHCP Server** for automatic IP allocation
 - **Wireless Access Points (WAP)** for Wi-Fi-enabled areas
-- **Firewall and ACLs** for security management
 - **Static & Dynamic Routing** for efficient network communication
 
 ## Network Topology
@@ -19,7 +18,7 @@ This project demonstrates a **Campus Network** design using **Cisco Packet Trace
 
 ## Requirements
 - **Cisco Packet Tracer** (Latest version recommended)
-- Basic knowledge of networking (IP addressing, VLANs, Routing, ACLs)
+- Basic knowledge of networking (IP addressing, VLANs, Routing)
 
 ## Setup Instructions
 1. Open **Cisco Packet Tracer**.
